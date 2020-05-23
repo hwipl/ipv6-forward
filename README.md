@@ -1,7 +1,7 @@
 # IPv6 Forwarding
 
 This repository contains a script that allows forwarding of IPv6 packets
-between networks, e.g, a public network and a private or virtual network. It
+between networks, e.g., a public network and a private or virtual network. It
 uses *tc* and the *mirred* action to forward packets between network
 interfaces. You can run the script with `tc-mirred-ipv6.sh` and the following
 command line arguments:
